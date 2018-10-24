@@ -1,6 +1,7 @@
 ---
 title: "Pengjiawan bridge reconstruction"
 collection: projects
+type: "Projects"
 permalink: /projects/Pengjiawan
 date: 2017-08
 venue: ''
