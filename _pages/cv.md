@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Minghuan Liu (刘明桓)"
+title: "Minghao Chen (陈铭颢)"
 permalink: /cv/
 author_profile: true
 redirect_from:
