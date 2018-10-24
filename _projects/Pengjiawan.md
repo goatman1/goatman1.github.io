@@ -1,8 +1,7 @@
 ---
 title: "Pengjiawan bridge reconstruction"
 collection: projects
-permalink: /publications/Pengjiawan
-excerpt: 'This project is about ...'
+permalink: /projects/Pengjiawan
 date: 2017-08
 venue: ''
 paperurl: ''
