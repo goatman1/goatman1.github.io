@@ -19,7 +19,7 @@ redirect_from:
 # Recent News
 
 * Oct 2018, I am Invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley, Nov 2018. 
-* Aug 2018, One full paper on underground transportation is accepted in Journal of Highway and Transportation Research and Development 2019.
+* Aug 2018, one full paper on underground transportation is accepted in Journal of Highway and Transportation Research and Development 2019.
 * April 2018, I attended the 2018 ASCE MIDPAC conference.
 
 
