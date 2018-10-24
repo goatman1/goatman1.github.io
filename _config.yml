@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghuan Liu"
+title                    : "Minghao Chen"
 title_separator          : "-"
-name                     : &name "Minghuan Liu"
+name                     : &name "Minghao Chen"
 description              : &description "Undergraduate student, Computer Science Department, Southwest Jiaotong University"
-url                      : https://ericonaldo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://goatman1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ericonaldo/ericonaldo.github.io"
+repository               : "goatman1/goatman1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minghuan Liu"
-  avatar           : "mhliu.jpg"
-  bio              : "Undergraduate student, Computer Science Department, Southwest Jiaotong University"
+  name             : "Minghao Chen"
+  avatar           : "mhchen.jpg"
+  bio              : "Undergraduate student, Engineering in Civil Engineering Department, Southwest Jiaotong University"
   location         : "Chengdu, Sichuan, China"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ericliu@my.swjtu.edu.cn"
+  email            : "minghaochen@my.swjtu.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ericonaldo"
+  github           : "goatman1"
   google_plus      :
   keybase          :
   instagram        :

@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Southwest Jiaotong University<br>
-Email: ericliu [at] my.swjtu.edu.com
+Engineering in Civil Engineering Department, Southwest Jiaotong University<br>
+Email: minghaochen [at] my.swjtu.edu.com
