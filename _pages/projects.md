@@ -1,11 +1,9 @@
 ---
-<!-- layout: archive -->
-title: "Awards & Honors"
-permalink: /awards/
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
-* First Prize in Display, The ASCE MIDPAC 2018 Steel Bridge Competition. 2018
-* Third Place, The ASCE MIDPAC 2018 Water Research Paper Competition.  2018
-* Meritorious Winner, The Mathematical Contest in Modeling. 2017
-* First Prize, China Undergraduate Mathematical Contest in Modeling. 2016
+<b>[The ASCE 2018 National Student Steel Bridge Competition]()</b> <br>
+Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to Journal of Highway and Transportation Research and Development.</i>
