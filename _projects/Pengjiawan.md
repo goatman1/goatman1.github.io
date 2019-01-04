@@ -1,7 +1,7 @@
 ---
 title: "Pengjiawan bridge reconstruction"
 collection: projects
-permalink: /projects/Pengjiawan
+permalink: /projects/pengjiawan
 date: 2017-08-10
 ---
 
