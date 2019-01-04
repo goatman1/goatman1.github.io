@@ -1,10 +1,10 @@
 ---
 title: "Research on network design of underground logistics channel based on simulated annealing algorithm"
 collection: publications
-permalink: /publications/HTRDJournal
+permalink:  /publications/HTRDJournal
 venue: 'Journal of Highway and Transportation Research and Development'
-date: 2019-10-05
-citation: 'Chuankun Liu, <b>Minghao Chen</b>, et al. &quot;Research on network design of underground logistics channel based on simulated annealing algorithm.&quot; <i>Journal of Highway and Transportation Research and Development</i>.'
+date: 2018-10-05
+citation: 'Chuankun Liu, <b>Minghao Chen</b>, et al. Research on network design of underground logistics channel based on simulated annealing algorithm. <i>Journal of Highway and Transportation Research and Development</i>.'
 ---
 
 ## Abstract
