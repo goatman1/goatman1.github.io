@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Civil Engineering Department, Southwest Jiaotong University<br>
+Key Lab of Transportation Tunnel Engineering of Ministry of Education, Southwest Jiaotong University<br>
 Email: minghaochen [at] my.swjtu.edu.com
