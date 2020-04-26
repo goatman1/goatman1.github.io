@@ -20,7 +20,7 @@ redirect_from:
 
 # Recent News
 
-* Apr 2020, I decided to accept the offer of admission from University of Michigan for my graduate study. I have been admitted to [9 programs](https://github.com/goatman1/goatman1.github.io/files/OfferCollection-M.Chen.pdf)
+* Apr 2020, I decided to accept the offer of admission from University of Michigan for my graduate study. I have been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
 * Oct 2019, I made a oral presentation related to my research at the 5th China Civil Engineering Society Tunnel and Underground Engineering Branch (CCES-TUWB) Construction Management and Technology Youth Conference, Ermei, China.
 * Oct 2018, I am Invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley, Nov 2018. 
 
