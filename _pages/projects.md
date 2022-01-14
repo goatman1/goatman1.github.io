@@ -8,8 +8,8 @@ author_profile: true
 <i>Haowei Sun, Minghao Chen, Zhichen Liu</i> 
 <p align="center">
   <img src="https://goatman1.github.io/images/cavs.png?raw=true" alt="Photo" style="width: 450px;"/> 
-  <img src="https://goatman1.github.io/images/probability.png?raw=true" alt="Photo" style="width: 280px;"/> 
-  <img src="https://goatman1.github.io/images/Testing.png?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="https://goatman1.github.io/images/probability.png?raw=true" alt="Photo" style="width: 350px;"/> 
+  <img src="https://goatman1.github.io/images/Testing.png?raw=true" alt="Photo" style="width: 370px;"/> 
 </p>
 
 <b>[Home Health Care Delivery with Supply Facility](http://goatman1.github.io/projects)</b> <br>
