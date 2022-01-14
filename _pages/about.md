@@ -20,9 +20,25 @@ redirect_from:
 * Optimization
 * Control
 
+
+# Education
+<b>University of Michigan, Sep 2020 - May 2022
+* Dual M.S. student in Industrial and Operations Engineering and Civil Engineering with Intelligent System
+* GPA: 3.84/4.0
+* Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization 
+  
+<b> Shanghai Jiao Tong University, Sep 2020 - July 2021
+* Visiting student in the UM-SJTU joint institute
+* GPA: 4.0/4.0
+* Advisor: Yanfeng Shen
+  
+<b> Southwest Jiaotong University, Sep 2015 - July 2019
+* B.Eng. in Civil Engineering
+* Major GPA: 88.17/100 Ranking:9/118
+* First Class Scholarship, Excellent Degree Thesis
+
+
 # Recent News
-
-
 * Nov 2021, Minghao presented in [2021 Michigan Engineering Research Symposium ](https://ers.engin.umich.edu/). 
 * Nov 2021, Minghao presented on [Multi-bolt loosening monitoring using an integrated vibro-acoustic modulation technique](https://drive.google.com/file/d/1YmTo6sdOVJ44JbfnHd3MnJmkRb6pPZ2h/view?usp=sharing) in the [2021 ASME International Mechanical Engineering Congress & Exposition](https://asme.pinetec.com/imece2021/). 
 * Apr 2020, Minghao decided to accept the offer of admission from University of Michigan for the graduate study. He has been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
