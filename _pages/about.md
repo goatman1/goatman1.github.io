@@ -12,16 +12,15 @@ redirect_from:
   <img src="https://goatman1.github.io/files/minghaochen.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* Minghao is now a research assistant in [the Key Lab of Transportation Tunnel Engineering of Chinese Ministry of Education](https://tte.swjtu.edu.cn/showlist.aspx?othernum=09) at [Southwest Jiaotong University](https://english.swjtu.edu.cn/). With the supervisor [Dr. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he is conducting a research project into the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
-* Minghao received his B.E. in Civil Engineering from Southwest Jiaotong University in 2019.
-* Minghao was in SWJTU Steel Bridge Team and won the first prize in display and overall fifth place in the ASCE MIDPAC 2018 Steel Bridge Competition. 
-* Minghao attended the national project "Research on interface characteristics of sprayed concrete and rock in high temperature and low relative humidity" as a laboratory assistant in SWJTU Civil Engineering Material Lab and his advisor is [Dr.Cui](http://userweb.swjtu.edu.cn/Userweb/cuishengai/english.htm).
-* His research interests include the dynamic response of soil and structure, soil-structure interaction (especially in the tunnel) and structure health monitoring (nondestructive methods). Also, he is interested in how to solve the engineering problem by computer programming.
-
+* Minghao is now a dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in Shanghai Jiao Tong University from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+* Minghao's research interest is about intelligent cyber-physical system. He is now seeking for a 2022 fall Ph.D. opening. 
 # Recent News
 
-* Apr 2020, I decided to accept the offer of admission from University of Michigan for my graduate study. I have been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
-* Oct 2019, I made a oral presentation related to my research at the 5th China Civil Engineering Society Tunnel and Underground Engineering Branch (CCES-TUWB) Construction Management and Technology Youth Conference, Ermei, China.
-* Oct 2018, I am Invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley, Nov 2018. 
+
+* Nov 2021, Minghao presented in [2021 Michigan Engineering Research Symposium ](https://ers.engin.umich.edu/). 
+* Nov 2021, Minghao presented on [Multi-bolt loosening monitoring using an integrated vibro-acoustic modulation technique](https://drive.google.com/file/d/1YmTo6sdOVJ44JbfnHd3MnJmkRb6pPZ2h/view?usp=sharing) in the [2021 ASME International Mechanical Engineering Congress & Exposition](https://asme.pinetec.com/imece2021/). 
+* Apr 2020, Minghao decided to accept the offer of admission from University of Michigan for the graduate study. He has been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
+* Oct 2019, Minghao presented his research advised by Prof. Wenbo Yang at the 5th China Civil Engineering Society Tunnel and Underground Engineering Branch (CCES-TUWB) Construction Management and Technology Youth Conference, Ermei, China.
+* Nov 2018, Minghao was invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley.
 
 
