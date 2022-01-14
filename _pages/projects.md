@@ -7,7 +7,8 @@ author_profile: true
 <b>[Accelerating Autonoumous Vehicle Car-following Safety Testing with Temporal Difference Learning](http://goatman1.github.io/projects)</b> <br>
 <i>Haowei Sun, Minghao Chen, Zhichen Liu</i> 
 <p align="center">
-  <img src="https://goatman1.github.io/files/minghaochen.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://goatman1.github.io/files/cavs.png?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="https://goatman1.github.io/files/Testing.png?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
 <b>[Home Heakth Care Delivery with Supply Facility](http://goatman1.github.io/projects)</b> <br>
