@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Key Lab of Transportation Tunnel Engineering of Ministry of Education, Southwest Jiaotong University<br>
-Email: minghaochen [at] my.swjtu.edu.com
+2361 Stone Road, Ann arbor, MI, 48105<br>
+<b>Email: mhaochen [at] umich.edu
