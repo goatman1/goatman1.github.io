@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* Minghao is now a second-year dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in Shanghai Jiao Tong University from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+* Minghao is now a second-year dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
 * He is now seeking for a 2022 fall Ph.D. opening. 
 
 # Research Interests
@@ -22,17 +22,17 @@ redirect_from:
 
 
 # Education
-<b>University of Michigan, Sep 2020 - May 2022
+<b>University of Michigan, </b>Sep 2020 - May 2022
 * Dual M.S. student in Industrial and Operations Engineering and Civil Engineering with Intelligent System
 * GPA: 3.84/4.0
 * Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization 
   
-<b> Shanghai Jiao Tong University, Sep 2020 - July 2021
+<b> Shanghai Jiao Tong University, </b>Sep 2020 - July 2021
 * Visiting student in the UM-SJTU joint institute
 * GPA: 4.0/4.0
-* Advisor: Yanfeng Shen
+* Research: Bolt Loosening Monitoring with Integrated Vibro-Acoustic Modulation, Online Damage Sensing Neural System for Wind Turbine Blades 
   
-<b> Southwest Jiaotong University, Sep 2015 - July 2019
+<b> Southwest Jiaotong University, </b>Sep 2015 - July 2019
 * B.Eng. in Civil Engineering
 * Major GPA: 88.17/100 Ranking:9/118
 * First Class Scholarship, Excellent Degree Thesis
