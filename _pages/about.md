@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://goatman1.github.io/files/minghaochen.png?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
-* Minghao is now a dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in Shanghai Jiao Tong University from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
-* Minghao's research interest is about intelligent cyber-physical system. He is now seeking for a 2022 fall Ph.D. opening. 
+
+# Biography
+* Minghao is now a second-year dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in Shanghai Jiao Tong University from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+* He is now seeking for a 2022 fall Ph.D. opening. 
+
+# Research Interests
+* Complex Cyber-Physical System
+* Structural Health Monitoring
+* Signal Processing and Machine Learning
+* Optimization
+* Control
+
 # Recent News
 
 
