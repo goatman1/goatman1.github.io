@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Minghao is now a second-year dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://english.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](http://userweb.swjtu.edu.cn/userweb/ywb1179/english.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+Minghao is now a second-year dual M.S. student of [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](https://faculty.swjtu.edu.cn/yangwenbo/en/index.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
 
 
 # Research Interests
