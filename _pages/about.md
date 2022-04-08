@@ -38,7 +38,7 @@ Minghao is now a second-year dual M.S. student of [the Industrial and Operations
 
 
 # Recent News
-* He will start to pursue a doctoral degree in [Columbia Engineering](https://www.engineering.columbia.edu/) in 2022 fall, advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html).
+* Minghao will start to pursue a doctoral degree in [Columbia Engineering](https://www.engineering.columbia.edu/) in 2022 fall, advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html).
 * Nov 2021, Minghao presented in [2021 Michigan Engineering Research Symposium ](https://ers.engin.umich.edu/). 
 * Nov 2021, Minghao presented on [Multi-bolt loosening monitoring using an integrated vibro-acoustic modulation technique](https://drive.google.com/file/d/1YmTo6sdOVJ44JbfnHd3MnJmkRb6pPZ2h/view?usp=sharing) in the [2021 ASME International Mechanical Engineering Congress & Exposition](https://asme.pinetec.com/imece2021/). 
 * Apr 2020, Minghao decided to accept the offer of admission from University of Michigan for the graduate study. He has been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
