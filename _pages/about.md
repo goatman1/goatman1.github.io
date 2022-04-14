@@ -28,9 +28,10 @@ Minghao is an upcoming Ph.D. student at [Columbia University](https://www.columb
 * [The Academic Family Tree](https://academictree.org/etree/tree.php?pid=725649&pnodecount=8&cnodecount=4&fontsize=1)
 
 <b>University of Michigan, </b>Sep 2020 - May 2022
-* Dual M.S. student in Industrial and Operations Engineering and Civil Engineering with Intelligent System
+* M.S. in Industrial and Operations Engineering
+* M.S. in Intelligent System Engineering
 * GPA: 3.84/4.0
-* Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization 
+* Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization, Deep Learning for CV 
   
 <b> Shanghai Jiao Tong University, </b>Sep 2020 - July 2021
 * Visiting student in the UM-SJTU joint institute
