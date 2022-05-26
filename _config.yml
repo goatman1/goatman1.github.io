@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minghao Chen"
 title_separator          : "-"
 name                     : &name "Minghao Chen"
-description              : &description "Graduate Student, Industrial and Operations Engineering, Civil and Environmental Engineering Department, University of Michigan"
+description              : &description "Ph.D. Student in Engineering Mechanics, Columbia University"
 url                      : https://goatman1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goatman1/goatman1.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Minghao Chen"
   avatar           : "minghao-1.jpg"
-  bio              : "Graduate student,           Department of Industrial and Operations Engineering, Department of Civil and Environmental Engineering, University of Michigan"
-  location         : "Ann arbor, MI"
+  bio              : "Ph.D. in Engineering Mechanics, Columbia University"
+  location         : "New York, NY"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mhaochen@umich.edu"
+  email            : "minghao.c@columbia.edu"
   uri              : 
   bitbucket        :
   codepen          :
