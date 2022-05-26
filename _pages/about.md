@@ -51,4 +51,6 @@ Minghao is an upcoming Ph.D. student at [Columbia University](https://www.columb
 * Oct 2019, Minghao presented his research advised by Prof. Wenbo Yang at the 5th China Civil Engineering Society Tunnel and Underground Engineering Branch (CCES-TUWB) Construction Management and Technology Youth Conference, Ermei, China.
 * Nov 2018, Minghao was invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley.
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=x6a_hkH6BZ9mNOUKNxrNHBNJaY7_GB1pcNpSU7MkBSo"></script>
+
 
