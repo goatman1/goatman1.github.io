@@ -28,4 +28,4 @@ author_profile: true
 </p>
 
 <b>[Pengjiawan bridge reconstruction](http://goatman1.github.io/projects/pengjiawan)</b> <br>
-<i>MMao-Yisheng Charity Foundation</i>
+<i>Mao-Yisheng Charity Foundation</i>
