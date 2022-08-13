@@ -48,9 +48,7 @@ Minghao is an upcoming Ph.D. student at [Columbia University](https://www.columb
 * Minghao will start to pursue a doctoral degree in [Columbia Engineering](https://www.engineering.columbia.edu/) from 2022 fall, advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html).
 * Nov 2021, Minghao presented in [2021 Michigan Engineering Research Symposium ](https://ers.engin.umich.edu/). 
 * Nov 2021, Minghao presented on [Multi-bolt loosening monitoring using an integrated vibro-acoustic modulation technique](https://drive.google.com/file/d/1YmTo6sdOVJ44JbfnHd3MnJmkRb6pPZ2h/view?usp=sharing) in the [2021 ASME International Mechanical Engineering Congress & Exposition](https://asme.pinetec.com/imece2021/). 
-* Apr 2020, Minghao decided to accept the offer of admission from University of Michigan for the graduate study. He has been admitted to [9 programs](http://goatman1.github.io/files/OfferCollection-M.Chen.pdf).
-* Oct 2019, Minghao presented his research advised by Prof. Wenbo Yang at the 5th China Civil Engineering Society Tunnel and Underground Engineering Branch (CCES-TUWB) Construction Management and Technology Youth Conference, Ermei, China.
-* Nov 2018, Minghao was invited to attend the Chi Epsilon Pacific District Alumni Association in UC Berkeley.
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0877b2&w=500&t=tt&d=x6a_hkH6BZ9mNOUKNxrNHBNJaY7_GB1pcNpSU7MkBSo&co=ffffff&cmo=f7dd10&cmn=ff0000&ct=000000'></script>
 
