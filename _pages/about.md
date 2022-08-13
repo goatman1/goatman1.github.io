@@ -10,21 +10,22 @@ redirect_from:
 
 
 
-Minghao is an upcoming Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He recieved dual M.S. degree from [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](https://faculty.swjtu.edu.cn/yangwenbo/en/index.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+Minghao is an upcoming Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He recieved dual M.S. degree from [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Civil and Environmental Engineering](https://cee.engin.umich.edu/) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](https://faculty.swjtu.edu.cn/yangwenbo/en/index.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
 
 
 # Research Interests
 * Complex Cyber-Physical System
+* UAV Wind Field Estimation
+* UAV Trajactory Optimization and Control
 * Structural Health Monitoring
 * Signal Processing and Machine Learning
-* Optimization
-* Control
 
 
 # Education
 <b>Columbia University, </b>Sep 2022 - May 2026
 * Ph.D. student in Engineering Mechanics
 * Advisor: [Prof. Andrew W. Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html)
+* Co-advisor: [Prof. Max Z. Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0)
 * [The Academic Family Tree](https://academictree.org/etree/tree.php?pid=725649&pnodecount=8&cnodecount=4&fontsize=1)
 
 <b>University of Michigan, </b>Sep 2020 - May 2022
