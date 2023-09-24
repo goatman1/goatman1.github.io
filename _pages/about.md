@@ -54,6 +54,8 @@ Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), 
 
 
 # Recent News
+* Minghao will be attending the 2023 INFORMS Annual Meeting, held in Phoenix, AZ, in October 2023. Minghao will present his work with gust-resistant drone delivery problems.
+* Minghao will present the latest work "Drone delivery routing with stochastic urban wind" in the 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC). This is a joint work with [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html), [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0), and [Prof. Marco Giometto](https://www.engineering.columbia.edu/faculty/marco-giometto).
 * Minghao will start to pursue a doctoral degree in [Columbia Engineering](https://www.engineering.columbia.edu/) from 2022 fall, advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html).
 * Nov 2021, Minghao presented in [2021 Michigan Engineering Research Symposium ](https://ers.engin.umich.edu/). 
 * Nov 2021, Minghao presented on [Multi-bolt loosening monitoring using an integrated vibro-acoustic modulation technique](https://drive.google.com/file/d/1YmTo6sdOVJ44JbfnHd3MnJmkRb6pPZ2h/view?usp=sharing) in the [2021 ASME International Mechanical Engineering Congress & Exposition](https://asme.pinetec.com/imece2021/). 
