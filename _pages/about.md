@@ -10,20 +10,19 @@ redirect_from:
 
 
 
-Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He recieved dual M.S. degree from [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/). He is also a visiting student in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021 supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019. Advised by [Prof. Wenbo Yang](https://faculty.swjtu.edu.cn/yangwenbo/en/index.htm), he won the excellent degree paper with the dynamic response of tunnel and surrounding soil under long-term loads induced by trains, supported by NSF-China.
+Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He recieved dual M.S. degree from [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/). He was also a visiting student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021, supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor's degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019.
 
 
 # Research Interests
 <b>Methodologies:</b>
 * Combinatorial Optimization
-* Robust Optimization
+* Stochastic Optimization
 * Bayesian Inference (especially for High-Dimensional)
 * Probabilistic ML
 
 <b>Applications:</b>
-* Advanced Urban Air Mobility
-* Complex Cyber-Physical System
-* UAV Routing and Trajactory Optimization and Control
+* Advanced Air Mobility
+* UAV Routing and Planning
 * Nonlinear System Identification and Control
 * Signal Processing and Machine Learning
 
