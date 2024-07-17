@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He recieved dual M.S. degree from [the Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [the Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/). He was also a visiting student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) from 2020 to 2021, supervised by [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/En/Content?w=129&p=96). He received his bachelor's degree in Civil Engineering from [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in 2019.
+Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He received dual M.S. degree in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/). Before this, he also studied at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Southwest Jiaotong University](https://en.swjtu.edu.cn/).
 
 
 # Research Interests
@@ -18,7 +18,7 @@ Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), 
 * Combinatorial Optimization
 * Stochastic Optimization
 * Bayesian Inference (especially for High-Dimensional)
-* Probabilistic ML
+* Reinforcement Learning
 
 <b>Applications:</b>
 * Advanced Air Mobility
@@ -42,14 +42,7 @@ Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), 
 * GPA: 3.84/4.0
 * Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization, Deep Learning for CV 
   
-<b> Shanghai Jiao Tong University, </b>Sep 2020 - July 2021
-* Visiting student in the UM-SJTU joint institute
-* GPA: 4.0/4.0
-* Research: Bolt Loosening Monitoring with Integrated Vibro-Acoustic Modulation, Online Damage Sensing Neural System for Wind Turbine Blades 
-  
-<b> Southwest Jiaotong University, </b>Sep 2015 - July 2019
-* B.Eng. in Civil Engineering
-* Major GPA: 88.17/100 Ranking:9/118
+
 
 
 # Recent News
