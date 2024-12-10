@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). He received dual M.S. degree in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/). Before this, he also studied at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Southwest Jiaotong University](https://en.swjtu.edu.cn/).
+Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), being advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html). He is also co-advised by [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0) from [University of Michigan](https://umich.edu/). Before joining Columbia University, he studied in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) and [Intelligent System Engineering](https://cee.engin.umich.edu/wp-content/uploads/sites/4/2021/04/MSE-CE-IS-Guidelines.pdf) at [University of Michigan](https://umich.edu/), as well as at UM-SJTU Joint Institue at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 
 # Research Interests
@@ -36,16 +36,11 @@ Minghao is a Ph.D. student at [Columbia University](https://www.columbia.edu/), 
 * Major Courses: Foundations of Graphical Models, High Dimensional Probability, Mathematics of Deep Learning, Computational Statistics, Bayesian Statistics, Real Analysis, Random Signals
 
 
-<b>University of Michigan, </b>Sep 2020 - May 2022
-* M.S. in Industrial and Operations Engineering
-* M.S. in Intelligent System Engineering
-* GPA: 3.84/4.0
-* Major Courses: Computation ML & DS, Stochastic Process I & II, Linear System Theory, Dynamics Programming, Transportation Optimization, Deep Learning for CV 
-  
-
 
 
 # Recent News
+* Minghao received an Honorable Mention for the Aviation Application Society Best Student Presentation Award.
+* Minghao will be attending the 2024 [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), held in Seattle, WA, in October 2024. Minghao will present his work in the Aviation Application Society Best Student Presentation Competition. 
 * Minghao will be attending the 2023 [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), held in Phoenix, AZ, in October 2023. Minghao will present his work with gust-resistant drone delivery problems.
 * Minghao will present recent work "Drone delivery routing with stochastic urban wind" in the 2023 IEEE 26th [International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/). This is a joint work with [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html), [Prof. Max Li](https://sites.google.com/umich.edu/lattice/people/max-z-li?authuser=0), and [Prof. Marco Giometto](https://www.engineering.columbia.edu/faculty/marco-giometto).
 * Minghao will start to pursue a doctoral degree in [Columbia Engineering](https://www.engineering.columbia.edu/) from 2022 fall, advised by [Prof. Andrew Smyth](http://www.columbia.edu/cu/civileng/smyth/CV.html).
