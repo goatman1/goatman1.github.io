@@ -10,7 +10,7 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]]()
 
-<!-- <embed src="http://goatman1.github.io/files/Minghao Chen-Resume-SP25-ML.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://goatman1.github.io/files/Minghao-Chen-Resume-SP25-ML.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
 
