@@ -5,10 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* SWJTU First Class Scholarship
-* SWJTU Innovation Scholarship
-* SWJTU Excellent Degree Thesis
-* First Prize in Display, The ASCE MIDPAC 2018 Steel Bridge Competition
-* Third Place, The ASCE MIDPAC 2018 Water Research Paper Competition
-* Meritorious Winner, The Mathematical Contest in Modeling
-* First Prize, China Undergraduate Mathematical Contest in Modeling
+* Honorable Mention (2nd/6 finalists) in 2024 INFORMS AAS Best Student Presentation Competition
+* EGSC Professional Development Scholarship from Columbia University 
+* Calatrava Family Fellowship from Columbia University 
+* Carleton Laboratory Fellowship from Columbia University 
