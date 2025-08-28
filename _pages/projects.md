@@ -20,12 +20,3 @@ author_profile: true
   <img src="https://goatman1.github.io/images/sensitivity.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-<b>[The ASCE 2018 National Student Steel Bridge Competition](http://goatman1.github.io/projects/ASCE_2018)</b> <br>
-<i>Minghao Chen, Xiaolei Chu, Junjie Sun, Gang Xiong, Hao Zhou</i>
-<p align="center">
-  <img src="https://goatman1.github.io/images/poster_final.jpg?raw=true" alt="Photo" style="width: 600px;"/>
-  <img src="https://goatman1.github.io/images/steel bridge.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
-</p>
-
-<b>[Pengjiawan bridge reconstruction](http://goatman1.github.io/projects/pengjiawan)</b> <br>
-<i>Mao-Yisheng Charity Foundation</i>
